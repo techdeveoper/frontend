@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#navbar {
+  background-color: black;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: ; */
+  gap: 200px;
+}
+.logo {
+  color: orange;
+  text-align: right;
+  justify-self: right;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+button {
+  color: white;
+  background-color: orange;
+}

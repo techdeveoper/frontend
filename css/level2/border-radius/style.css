@@ -1,0 +1,11 @@
+div {
+  background-color: pink;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  /* border-width: 2px;
+  border-style: double;
+  border-color: brown; */
+  border: 2px double brown;
+  border-radius: 15%;
+}
